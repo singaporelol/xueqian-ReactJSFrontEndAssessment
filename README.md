@@ -8,7 +8,7 @@
 - React-Redux
 - Unit Test: both jest and enzyme
 - SCSS
-
+* Instead of using a JSON file to render content. I use promise and setTimeout(300ms) to simulate ajax call to retrive navbar content.
 
 ## Installation
 
