@@ -6,7 +6,7 @@ import "./index.scss";
 interface IProps {}
 interface IState {}
 
-export default class Body extends Component<IProps, IState> {
+export default class GameList extends Component<IProps, IState> {
   // state = {}
   constructor(props) {
     super(props);
