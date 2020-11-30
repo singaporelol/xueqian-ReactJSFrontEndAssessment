@@ -1,11 +1,10 @@
-@media only screen and (max-width:768px) {
-  .container{
+@media only screen and (max-width: 768px) {
+  .container {
     margin: 2rem 0rem 3rem;
   }
 }
 .body {
-
-  background-color: #2A2A2A;
+  background-color: #2a2a2a;
   color: #fff;
   display: flex;
 
@@ -28,7 +27,6 @@
           border-radius: 0.3rem;
         }
       }
-
     }
 
     .row-2 {
@@ -52,10 +50,6 @@
         align-self: flex-end;
         margin-right: 1rem;
       }
-
     }
-
-
   }
-
 }
